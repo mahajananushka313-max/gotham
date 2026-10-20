@@ -1,0 +1,1 @@
+export const Bat=({className=''}:{className?:string})=><svg className={className} viewBox="0 0 100 60" aria-hidden="true"><path fill="currentColor" d="M50 6 58 20 70 14 90 8Q101 26 94 42Q80 34 72 48Q65 40 58 54L50 40 42 54Q35 40 28 48Q20 34 6 42Q-1 26 10 8L30 14 42 20Z"/></svg>;
